@@ -1,4 +1,4 @@
-var username  = document.getElementById('username');
+/*var username  = document.getElementById('username');
 var pass = document.getElementById('password');
 var agr = document.getElementById('agree');
 var gen = document.getElementById('gender');
