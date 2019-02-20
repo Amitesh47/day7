@@ -1,4 +1,4 @@
-"use strict";
+/*"use strict";
 var username  = document.getElementById('username').value;
 var pass = document.getElementById('password').value;
 var agr = document.getElementById('agree').value;
