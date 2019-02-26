@@ -3,6 +3,8 @@
     var key = document.getElementById('textual');
     var eve = document.getElementById('buttons');
     var num = document.getElementById('numeric');
+    var qs = document.querySelectorAll('.btn');
+    console.log(qs);
     eve.addEventListener('click', function(e){
         console.log(e);
         console.log(this);
